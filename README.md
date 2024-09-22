@@ -11,31 +11,13 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 </br>
 </div>
 
-<div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<div align="center">
+<img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 <br>
 <br>
 <br>
-<br>
-
-  <div>
-
-- 👨‍💻 All of my projects are available  [here]()
-
-- 💬 Ask me about anything <a href=""><b>here</b></a>
-
-- 📫 Also, you may send a nice letter to **tiagoc.borges02@gmail.com**
-
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-</br>
-</br>
 </br>
 </br>
 </br>
